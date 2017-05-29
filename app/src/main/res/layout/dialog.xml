@@ -10,7 +10,7 @@
     />
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="wrap_content"git
         android:id="@+id/Edit_name"
         />
     <TextView
