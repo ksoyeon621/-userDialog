@@ -10,8 +10,8 @@
     />
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"git
-        android:id="@+id/Edit_name"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_name"
         />
     <TextView
         android:layout_width="match_parent"
@@ -22,6 +22,6 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Edit_email"
+        android:id="@+id/edit_email"
         />
 </LinearLayout>
